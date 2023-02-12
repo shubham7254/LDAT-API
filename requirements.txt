@@ -1,7 +1,8 @@
-flask
+tensorflow
+keras
 transformers
-PyPDF2
 sentencepiece
 torch
-tensorflow
-flax
+jsonify
+flask
+PyPDF2
